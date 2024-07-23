@@ -1,2 +1,2 @@
 # Kevin-Panchana
-Estudiante de Informática 
+Estudiante de Informática - Ejercicios de clase/práctica
